@@ -26,3 +26,24 @@
 
 1. On delete set the null
    ![Alt text](image-5.png)
+
+# 30 Jan
+
+## Queries with joins and aggregations
+
+1. This is our new table structure
+   ![Alt text](image-6.png)
+
+2. Some intersting questions
+   ![Alt text](image-7.png)
+
+3. Joins and aggregation
+   ![Alt text](image-8.png)
+
+## Joining Data from Different Tables
+
+1. Problem
+   ![Alt text](image-9.png)
+
+2. Problem
+   ![Alt text](image-11.png)
