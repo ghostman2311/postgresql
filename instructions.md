@@ -27,7 +27,7 @@
 1. On delete set the null
    ![Alt text](image-5.png)
 
-# 30 Jan
+# 29 Jan
 
 ## Queries with joins and aggregations
 
@@ -47,3 +47,20 @@
 
 2. Problem
    ![Alt text](image-11.png)
+
+# 30 Jan
+
+## Alternate form of syntax
+
+1. Notes on join
+   ![Alt text](image-12.png)
+
+## Missing Data in Joins
+
+1. If we add a record in photo table with user_id as null
+2. Then In the join new photo will be not included because it doesn't have corresponding user.
+3. But This violates our query requirements
+
+## Why Wasn't it included
+
+1. Explanation is quite simple because we don't find a match that's why it is not included in the output.
