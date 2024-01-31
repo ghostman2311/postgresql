@@ -64,3 +64,16 @@
 ## Why Wasn't it included
 
 1. Explanation is quite simple because we don't find a match that's why it is not included in the output.
+
+# 31 Jan
+
+## Four kind of joins
+
+1. Inner join
+   ![Alt text](image-13.png)
+2. Left outer join
+   ![Alt text](image-14.png)
+3. Right outer join
+   ![Alt text](image-15.png)
+4. Full Join
+   ![Alt text](image-16.png)
