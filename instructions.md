@@ -77,3 +77,12 @@
    ![Alt text](image-15.png)
 4. Full Join
    ![Alt text](image-16.png)
+
+# 3 Feb
+
+## Does order really matter
+
+1. You can clearly see the difference
+   ![alt text](image-17.png)
+
+
