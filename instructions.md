@@ -85,4 +85,9 @@
 1. You can clearly see the difference
    ![alt text](image-17.png)
 
+## Where with join
 
+1. Task
+   ![alt text](image-18.png)
+
+2.
