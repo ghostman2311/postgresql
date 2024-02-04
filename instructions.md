@@ -90,4 +90,12 @@
 1. Task
    ![alt text](image-18.png)
 
-2.
+# 4 Feb
+
+## Three way join
+
+1. Find username, url and comment where user commented on his own photo.
+
+## Aggregating and grouping
+
+1.
