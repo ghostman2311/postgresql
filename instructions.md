@@ -96,6 +96,17 @@
 
 1. Find username, url and comment where user commented on his own photo.
 
-## Aggregating and grouping
+# 5 Feb
 
-1.
+## Picturing group by
+
+1. Groupby and aggregation difference
+   ![alt text](image-19.png)
+
+2. Here is pictorial representation of groupby
+   ![alt text](image-20.png)
+
+3. You can visualize like this
+   ![alt text](image-21.png)
+
+4. To select a column in group by query then that colum must be present in group by or aggregate function.
