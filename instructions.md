@@ -110,3 +110,28 @@
    ![alt text](image-21.png)
 
 4. To select a column in group by query then that colum must be present in group by or aggregate function.
+
+## Aggregate function
+
+1. Here are some examples
+   ![alt text](image-22.png)
+
+## Combining Group by with aggregates
+
+1. We combine group by with aggregates like this
+   ![alt text](image-23.png)
+
+2. You can use this to visualise the internal working of group by
+   ![alt text](image-24.png)
+3. Null values are not counted in COUNT function
+4. To count the all rows including some column has null we can do like this
+   ![alt text](image-25.png)
+
+## Visualizing more grouping
+
+1. Here is a problem
+   ![alt text](image-26.png)
+
+2. Do all the excercises
+
+- https://www.udemy.com/course/sql-and-postgresql/learn/quiz/4987192#notes
