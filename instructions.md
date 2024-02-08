@@ -116,6 +116,8 @@
 1. Here are some examples
    ![alt text](image-22.png)
 
+# 6 Feb
+
 ## Combining Group by with aggregates
 
 1. We combine group by with aggregates like this
@@ -135,3 +137,18 @@
 2. Do all the excercises
 
 - https://www.udemy.com/course/sql-and-postgresql/learn/quiz/4987192#notes
+
+# 7 Feb
+
+## Filtering groups with having
+
+1. Order of important keywords
+   ![alt text](image-27.png)
+2. Having is only used with group by
+3. Problem
+   ![alt text](image-28.png)
+
+4. Problem
+   ![alt text](image-29.png)
+
+5. Excercise on udemy
