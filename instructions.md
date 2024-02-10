@@ -152,3 +152,12 @@
    ![alt text](image-29.png)
 
 5. Excercise on udemy
+
+# 10 Feb
+
+## Investigating the data set
+
+1. Data now will be related to ecommerce data
+   ![alt text](image-30.png)
+2. Perform all the excercise
+
