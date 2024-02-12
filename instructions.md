@@ -161,3 +161,30 @@
    ![alt text](image-30.png)
 2. Perform all the excercise
 
+# 12 Feb
+
+## The basics of sorting
+
+1. By default if we order by some value then we go in ascending order
+   ![alt text](image-31.png)
+
+2. We can add DESC if we want in desc order
+
+## Two Variations on sorting
+
+1. If price are same for two column we can mention second criteria for sorting that is weight in our case
+   ![alt text](image-32.png)
+
+## Offset and limit
+
+1. limit and offset
+   ![alt text](image-33.png)
+
+2. Offset example, It just means skip some number of rows from result set.
+   ![alt text](image-34.png)
+
+3. Limit example
+   ![alt text](image-35.png)
+
+4. Offset with limit example, In this example we are finding the most expensive products except the most expensive one.
+   ![alt text](image-36.png)
