@@ -188,3 +188,28 @@
 
 4. Offset with limit example, In this example we are finding the most expensive products except the most expensive one.
    ![alt text](image-36.png)
+
+# 13 Feb
+
+## Handling sets with union
+
+1. Problem
+   ![alt text](image-37.png)
+
+## A few notes on union
+
+1. There should be one common column name with same datatype. If both the table has different column name then we can not use union
+
+## Commanalities with intersect
+
+1. Here is diagram for various operations
+   ![alt text](image-38.png)
+
+2. Problem: Find the common rows from both the table in previous problem.
+
+## Removing commanalities with except
+
+1. Notes
+   ![alt text](image-39.png)
+
+
