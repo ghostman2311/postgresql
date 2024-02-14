@@ -212,4 +212,9 @@
 1. Notes
    ![alt text](image-39.png)
 
+# 14 Feb
 
+## What is subquery
+
+1. Problem
+   ![alt text](image-40.png)
