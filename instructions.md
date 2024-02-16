@@ -218,3 +218,18 @@
 
 1. Problem
    ![alt text](image-40.png)
+
+# 15 Feb
+
+## Thinking about structure of data
+
+1. Subqueries can be used as
+   ![alt text](image-41.png)
+
+# 16 Feb
+
+## Subqueries in select
+
+1. Query must return a single value
+2. Here is an example
+   ![alt text](image-42.png)
