@@ -233,3 +233,9 @@
 1. Query must return a single value
 2. Here is an example
    ![alt text](image-42.png)
+
+# 18 Feb
+
+## Subqueries in from
+
+1. Continue again
