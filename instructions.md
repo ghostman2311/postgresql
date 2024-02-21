@@ -239,3 +239,15 @@
 ## Subqueries in from
 
 1. Continue again
+
+# 22 Feb
+
+## Subqueries in from
+
+1. Initial query
+   ![alt text](image-43.png)
+
+2. Subquery in from must have an alias.
+3. Basic rule with subqueries in from
+   ![alt text](image-44.png)
+4. Write the query yourself in above image.
