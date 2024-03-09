@@ -251,3 +251,22 @@
 3. Basic rule with subqueries in from
    ![alt text](image-44.png)
 4. Write the query yourself in above image.
+
+# 6 March
+
+## From subqueries that return a value
+
+1. Final query
+   ![alt text](image-45.png)
+
+# 9 March
+
+## Example of sub query in a from
+
+1. Problem
+   ![alt text](image-46.png)
+
+2. First use group by to return the each user and their # of order
+
+2. Final result
+   ![alt text](image-47.png)
