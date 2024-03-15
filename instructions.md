@@ -268,5 +268,22 @@
 
 2. First use group by to return the each user and their # of order
 
-2. Final result
+3. Final result
    ![alt text](image-47.png)
+
+# 14 march
+
+## Subquery in join clause
+
+1. Theory
+   ![alt text](image-48.png)
+
+2. Final sol
+   ![alt text](image-49.png)
+
+# 15 March
+
+## Subquery with where
+
+1. Initial problem
+   ![alt text](image-50.png)
