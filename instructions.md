@@ -287,3 +287,14 @@
 
 1. Initial problem
    ![alt text](image-50.png)
+
+# 16 March
+
+## Data structure with where subqueries
+
+1. Table
+   ![alt text](image-51.png)
+
+2. Query
+   ![alt text](image-52.png)
+
