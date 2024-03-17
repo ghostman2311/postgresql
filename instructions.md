@@ -298,3 +298,8 @@
 2. Query
    ![alt text](image-52.png)
 
+# 17 March
+
+## The not in operator with a list
+
+1.
