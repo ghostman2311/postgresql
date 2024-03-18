@@ -302,4 +302,18 @@
 
 ## The not in operator with a list
 
-1.
+1. Query
+   ![alt text](image-53.png)
+
+2. Solution
+   ![alt text](image-54.png)
+
+# 18 March
+
+## A new where operator
+
+1. Initial query
+   ![alt text](image-55.png)
+
+2. Solution
+   ![alt text](image-57.png)
