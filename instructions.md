@@ -317,3 +317,13 @@
 
 2. Solution
    ![alt text](image-57.png)
+
+# 19 March
+
+## Some method
+
+1. Query
+   ![alt text](image-58.png)
+
+2. Solution
+   ![alt text](image-59.png)
