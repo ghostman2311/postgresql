@@ -327,3 +327,17 @@
 
 2. Solution
    ![alt text](image-59.png)
+
+# 25 March
+
+## Probably too much about correlated subqueries
+
+1. Query
+   ![alt text](image-60.png)
+
+2. To understand nested coorelated queries, Consider them like nested for loop.
+   ![alt text](image-61.png)
+
+3. In the above diagram, Image i=0 and j=0;
+4. Solution
+   ![alt text](image-62.png)
