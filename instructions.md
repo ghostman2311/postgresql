@@ -341,3 +341,48 @@
 3. In the above diagram, Image i=0 and j=0;
 4. Solution
    ![alt text](image-62.png)
+
+# 28 March
+
+## More on correlated subqueries
+
+1. Query
+   ![alt text](image-63.png)
+
+2. Solution
+   ![alt text](image-64.png)
+
+## A select without a from
+
+1. Here is the query
+   ![alt text](image-65.png)
+
+2. Use case
+   ![alt text](image-66.png)
+
+# 1 April
+
+## Selecting distinct values
+
+1. Distinct gives the unique values for a column.
+   ![alt text](image-67.png)
+2. To count the number of unique departments
+   ![alt text](image-68.png)
+
+## The Greatest value in a list
+
+1. To find the greatest value
+   ![alt text](image-69.png)
+2. Where we might use this function
+   ![alt text](image-70.png)
+3. Live example
+   ![alt text](image-71.png)
+
+## The least value in a list
+
+1. Here is the example
+   ![alt text](image-72.png)
+2. Where we would use the least
+   ![alt text](image-73.png)
+3. Example
+   ![alt text](image-74.png)
