@@ -386,3 +386,13 @@
    ![alt text](image-73.png)
 3. Example
    ![alt text](image-74.png)
+
+# 4 April
+
+## The case keyword(Not important for practical usage we want to handle this on code level)
+
+1. Query
+   ![alt text](image-75.png)
+
+2. Solution
+   ![alt text](image-76.png)
