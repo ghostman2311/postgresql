@@ -396,3 +396,9 @@
 
 2. Solution
    ![alt text](image-76.png)
+
+# 5 April
+
+## Thinking about validation
+
+
