@@ -401,4 +401,16 @@
 
 ## Thinking about validation
 
+# 8 April
 
+## Thinking about validation
+
+1. Discussion about adding negative price to the database when user directly interacting with database.
+
+## Creating and viewing tables in PGadmin
+
+1. Create product table in pgadmin
+   ![alt text](image-77.png)
+
+2. Insert one row
+   ![alt text](image-78.png)
