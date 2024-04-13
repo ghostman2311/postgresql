@@ -48,6 +48,9 @@
 2. Problem
    ![Alt text](image-11.png)
 
+3. Solution
+   ![image](https://github.com/ghostman2311/postgresql/assets/78917858/86aa6161-ffc8-47e7-a8a2-4105fb2c346d)
+
 # 30 Jan
 
 ## Alternate form of syntax
